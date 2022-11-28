@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/product-review-frontend-challenge/static/css/main.09f8a9b8.css",
-    "main.js": "/product-review-frontend-challenge/static/js/main.939b824e.js",
-    "static/media/image-product-desktop.jpg": "/product-review-frontend-challenge/static/media/image-product-desktop.c96d43af17111fe78e96.jpg",
-    "static/media/image-product-mobile.jpg": "/product-review-frontend-challenge/static/media/image-product-mobile.113818bc746dc8e64ffb.jpg",
-    "index.html": "/product-review-frontend-challenge/index.html",
-    "static/media/icon-cart.svg": "/product-review-frontend-challenge/static/media/icon-cart.9606ad84b7565a3f523f9429396f8066.svg",
-    "main.09f8a9b8.css.map": "/product-review-frontend-challenge/static/css/main.09f8a9b8.css.map",
-    "main.939b824e.js.map": "/product-review-frontend-challenge/static/js/main.939b824e.js.map"
+    "main.css": "/static/css/main.09f8a9b8.css",
+    "main.js": "/static/js/main.bfe8b6c7.js",
+    "static/media/image-product-desktop.jpg": "/static/media/image-product-desktop.c96d43af17111fe78e96.jpg",
+    "static/media/image-product-mobile.jpg": "/static/media/image-product-mobile.113818bc746dc8e64ffb.jpg",
+    "index.html": "/index.html",
+    "static/media/icon-cart.svg": "/static/media/icon-cart.9606ad84b7565a3f523f9429396f8066.svg",
+    "main.09f8a9b8.css.map": "/static/css/main.09f8a9b8.css.map",
+    "main.bfe8b6c7.js.map": "/static/js/main.bfe8b6c7.js.map"
   },
   "entrypoints": [
     "static/css/main.09f8a9b8.css",
-    "static/js/main.939b824e.js"
+    "static/js/main.bfe8b6c7.js"
   ]
 }
